@@ -12,6 +12,6 @@ Makefile.local
 box/
 .tmpatlas/
 iso/
-
+packer.exe
 .DS_Store
 .bundle
